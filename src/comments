@@ -1,0 +1,56 @@
+// const heading1 =React.createElement(
+//     "h1",
+//     { id: "title", key: "h1" }
+//     , "Heading 1");//react coming from import react ,cE from node
+// React => object => html dom
+// const heading2 = React.createElement(
+//     "h2",
+//     { id: "title", key: "h2" },
+//     "Heading 2");
+
+// const container = React.createElement(
+//     "div", { id: "container" },
+//     [heading1, heading2]);
+
+// const heading = React.createElement("h1", {id:"title"}, "Hello from React");
+
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+
+// root.render(container);
+
+//jsx(babe) => React => object => html dom
+
+//  
+
+//root.render(heading);//For React element
+
+// React components
+//Functional components-it is normal fuction it returns some jsx and react elements
+
+
+
+
+
+
+// {/*
+// no key (not acceptable) <<<<<<<<< index key (last option) <<<<<< unique key (best practice)
+// const Body = () => {
+//   return (
+//     <div className="restaurant-list">
+//       {restrautList.map((restaurant) => {
+//         return <RestrauntCard {...restaurant.data} key={restaurant.data.id} />;
+//       })}
+//     </div>
+//   );
+// };
+
+//         <RestorentCard {...RestaurantList[0]}/>
+//         <RestorentCard {...RestaurantList[1]}/>
+//         <RestorentCard {...RestaurantList[2]}/>
+//         <RestorentCard {...RestaurantList[3]}/>
+//         <RestorentCard {...RestaurantList[4]}/>
+//         <RestorentCard {...RestaurantList[5]}/>
+//         <RestorentCard {...RestaurantList[6]}/> */}
+//       </div>
+//     );
+//   };

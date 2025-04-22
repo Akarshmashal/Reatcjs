@@ -1,2 +1,2 @@
-# Reatcjs
-This repo contains my Reactjs Practice
+# Reactjs
+This repo is for Reactjs
